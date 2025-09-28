@@ -1,0 +1,20 @@
+site_name: The GitHub Branching Guide 
+site_url: "" # The full, canonical URL where your site will be hosted once deployed (e.g., https://username.github.io/my-awesome-project/).
+site_author: TechDocs
+site_description: Documentation about working with branches in Git and GitHub for technical writers.
+# repo_url: https://github.com/melaniesagasser/melaniesagasser.github.io
+theme: readthedocs
+nav:
+  - Overview: index.md   # Overview: Working with Branches in GitHub
+  - Working with Branches in GitHub: # This is just a section with no content
+    - Before you Get Started: get-started.md 
+    - Creating a Branch: create-branch.md
+    - Adding a File to a Branch: add-file.md
+    - Opening a Pull Request: pull-request.md
+    - Merging Pull Requests: merge-pr.md
+    - Deleting Branches: delete-branch.md
+  - Quick Reference Guide: quickref.md
+  - About Me: about.md
+copyright: Copyright &copy; 2025 TechDocs
+
+
