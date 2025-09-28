@@ -10,11 +10,10 @@ Create a branch in the GitHub web UI that's subordinate to the main branch.
 ## Steps
 
 1. In your GitHub repository, make sure you’re on the **Code** tab.
-2. Check that the branch menu under the repository title shows the `main` branch.  
-   \\ If you’re not on `main`, select it from the branch menu.
-3. Click the branch menu to open the Switch branches/tags dropdown.
-4. In the entry field with the search icon, enter a name for your new child branch.
-5. In the **Branches** tab of the dropdown, click **Create branch `<branch-name>` from main**.
+2. Check that the branch menu under the repository title shows the `main` branch. If you’re not on `main`, select it from the branch menu.
+1. Click the branch menu to open the **Switch branches/tags** dropdown menu.
+2. In the entry field with the search icon, enter a name for your new child branch.
+3. In the **Branches** tab of the dropdown, click **Create branch `<branch-name>` from main**.
 
 ## Result
 
