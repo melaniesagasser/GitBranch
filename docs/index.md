@@ -3,7 +3,7 @@
 A step-by-step guide on how to create and use branches in the GitHub web user interface (UI).
 Find out more about:
 
-- [Creating a Branch](create-branch.md): Create a branch that is subordinate to the main branch 
+- [Creating a Branch](create-branch.md): Create a branch that is subordinate to the main branch
 - [Adding a File to a Branch](add-file.md): Add a file to the branch and commit your changes
 - [Opening a Pull Request](pull-request.md): Open a pull request to merge your committed changes into the main branch  
 - [Merging Pull Requests](merge-pr.md): Merge the pull request to accept the changes to the main branch

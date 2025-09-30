@@ -20,4 +20,4 @@ The pull request is created and ready to be merged by a repository administrator
 
 ## Next Step
 
-[Merge Pull Requests](merge-pr.md)
+[Merging Pull Requests](merge-pr.md)
