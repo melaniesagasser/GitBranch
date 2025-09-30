@@ -1,2 +1,2 @@
-Deployed as GitHub Page under https://melaniesagasser.github.io/GitBranch/create-branch/
+Deployed as GitHub Page at https://melaniesagasser.github.io/GitBranch/create-branch/
 using mkdocs
